@@ -1,5 +1,7 @@
 # Minesweeper
 
+## v1.0
+
 Basic version of the famous minesweeper game playable on the terminal.
 
 ## Features
